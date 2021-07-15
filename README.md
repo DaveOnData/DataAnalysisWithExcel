@@ -18,3 +18,7 @@ GitHub repo for Dave Langer's YouTube tutorials on data analysis with Excel
 ## Market Basket Analysis (Association Rule Mining) With Excel
 - [Video](https://www.youtube.com/watch?v=aslTl6i-hpQ&ab_channel=DavidLanger)
 - [Excel file](TitanicMBA.xlsx)
+
+## Naive Bayes Classifier With Excel - Build a Spam Filter!
+- [Video](https://www.youtube.com/watch?v=E9zwZLLWZu0)
+- [Excel file](NaiveBayesClassifierWithExcel.xlsx)
