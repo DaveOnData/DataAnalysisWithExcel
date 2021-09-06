@@ -22,3 +22,7 @@ GitHub repo for Dave Langer's YouTube tutorials on data analysis with Excel
 ## Naive Bayes Classifier With Excel - Build a Spam Filter!
 - [Video](https://www.youtube.com/watch?v=E9zwZLLWZu0)
 - [Excel file](NaiveBayesClassifierWithExcel.xlsx)
+
+## Every Professional Will Be a Data Analyst
+- [Video](https://youtu.be/t_6K3Y0jP9Y)
+- [PDF file](EveryProfessionalWillBeADataAnalyst.pdf)
